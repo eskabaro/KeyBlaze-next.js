@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply h-full;
+}
+
+.wrapper {
+  @apply flex flex-col min-h-full max-h-screen h-full;
+}
+
+[data-overlay-container] {
+  @apply h-full;
+}

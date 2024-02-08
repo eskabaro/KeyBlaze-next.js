@@ -1,0 +1,14 @@
+.keyboard-box {
+  &_keyboard {
+    @apply flex flex-col gap-4;
+    max-width: 789px;
+
+    &_wrapper {
+      @apply rounded-md p-1 shadow-none duration-05;
+
+      &.error {
+        @apply shadow-error;
+      }
+    }
+  }
+}

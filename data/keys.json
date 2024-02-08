@@ -1,0 +1,434 @@
+[
+  {
+    "letter": "`",
+    "id": "1",
+    "handFinger": {
+      "hand": "left",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "1",
+    "id": "2",
+    "handFinger": {
+      "hand": "left",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "2",
+    "id": "3",
+    "handFinger": {
+      "hand": "left",
+      "finger": "a"
+    }
+  },
+  {
+    "letter": "3",
+    "id": "4",
+    "handFinger": {
+      "hand": "left",
+      "finger": "m"
+    }
+  },
+  {
+    "letter": "4",
+    "id": "5",
+    "handFinger": {
+      "hand": "left",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "5",
+    "id": "6",
+    "handFinger": {
+      "hand": "left",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "6",
+    "id": "7",
+    "handFinger": {
+      "hand": "right",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "7",
+    "id": "8",
+    "handFinger": {
+      "hand": "right",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "8",
+    "id": "9",
+    "handFinger": {
+      "hand": "right",
+      "finger": "m"
+    }
+  },
+  {
+    "letter": "9",
+    "id": "10",
+    "handFinger": {
+      "hand": "right",
+      "finger": "a"
+    }
+  },
+  {
+    "letter": "0",
+    "id": "11",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "-",
+    "id": "12",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "+",
+    "id": "13",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "Backspace",
+    "id": "14",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "Tab",
+    "id": "15",
+    "handFinger": {
+      "hand": "left",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "q",
+    "id": "16",
+    "handFinger": {
+      "hand": "left",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "w",
+    "id": "17",
+    "handFinger": {
+      "hand": "left",
+      "finger": "a"
+    }
+  },
+  {
+    "letter": "e",
+    "id": "18",
+    "handFinger": {
+      "hand": "left",
+      "finger": "m"
+    }
+  },
+  {
+    "letter": "r",
+    "id": "19",
+    "handFinger": {
+      "hand": "left",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "t",
+    "id": "20",
+    "handFinger": {
+      "hand": "left",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "y",
+    "id": "21",
+    "handFinger": {
+      "hand": "right",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "u",
+    "id": "22",
+    "handFinger": {
+      "hand": "right",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "i",
+    "id": "23",
+    "handFinger": {
+      "hand": "right",
+      "finger": "m"
+    }
+  },
+  {
+    "letter": "o",
+    "id": "24",
+    "handFinger": {
+      "hand": "right",
+      "finger": "a"
+    }
+  },
+  {
+    "letter": "p",
+    "id": "25",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "{",
+    "id": "26",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "}",
+    "id": "27",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "\"",
+    "id": "28",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "CapsLock",
+    "id": "29",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "a",
+    "id": "30",
+    "handFinger": {
+      "hand": "left",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "s",
+    "id": "31",
+    "handFinger": {
+      "hand": "left",
+      "finger": "a"
+    }
+  },
+  {
+    "letter": "d",
+    "id": "32",
+    "handFinger": {
+      "hand": "left",
+      "finger": "m"
+    }
+  },
+  {
+    "letter": "f",
+    "id": "33",
+    "handFinger": {
+      "hand": "left",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "g",
+    "id": "34",
+    "handFinger": {
+      "hand": "left",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "h",
+    "id": "35",
+    "handFinger": {
+      "hand": "right",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "j",
+    "id": "36",
+    "handFinger": {
+      "hand": "right",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "k",
+    "id": "37",
+    "handFinger": {
+      "hand": "right",
+      "finger": "m"
+    }
+  },
+  {
+    "letter": "l",
+    "id": "38",
+    "handFinger": {
+      "hand": "right",
+      "finger": "a"
+    }
+  },
+  {
+    "letter": ";",
+    "id": "39",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "'",
+    "id": "40",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "Enter",
+    "id": "41",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "Shift",
+    "id": "42",
+    "handFinger": {
+      "hand": "Left",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "z",
+    "id": "43",
+    "handFinger": {
+      "hand": "left",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "x",
+    "id": "44",
+    "handFinger": {
+      "hand": "left",
+      "finger": "a"
+    }
+  },
+  {
+    "letter": "c",
+    "id": "45",
+    "handFinger": {
+      "hand": "left",
+      "finger": "m"
+    }
+  },
+  {
+    "letter": "v",
+    "id": "46",
+    "handFinger": {
+      "hand": "left",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "b",
+    "id": "47",
+    "handFinger": {
+      "hand": "left",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "n",
+    "id": "48",
+    "handFinger": {
+      "hand": "right",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "m",
+    "id": "49",
+    "handFinger": {
+      "hand": "right",
+      "finger": "i"
+    }
+  },
+  {
+    "letter": "<",
+    "id": "50",
+    "handFinger": {
+      "hand": "right",
+      "finger": "m"
+    }
+  },
+  {
+    "letter": ">",
+    "id": "51",
+    "handFinger": {
+      "hand": "right",
+      "finger": "a"
+    }
+  },
+  {
+    "letter": "?",
+    "id": "52",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": "Shift",
+    "id": "53",
+    "handFinger": {
+      "hand": "right",
+      "finger": "c"
+    }
+  },
+  {
+    "letter": " ",
+    "id": "54",
+    "handFinger": {
+      "hand": "",
+      "finger": "p"
+    }
+  }
+]

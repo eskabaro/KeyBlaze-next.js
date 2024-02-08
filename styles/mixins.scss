@@ -1,0 +1,4 @@
+@mixin font($min-size, $vw, $max-size, $weight) {
+  font-size: clamp($min-size, $vw, $max-size);
+  font-weight: $weight;
+}

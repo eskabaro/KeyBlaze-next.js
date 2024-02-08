@@ -1,0 +1,15 @@
+.modal-bg {
+  @apply fixed inset-0 w-full h-screen z-10 backdrop-blur-sm flex justify-center items-center bg-modal invisible opacity-0 transition-opacity;
+
+  &.active {
+    @apply opacity-100 visible;
+  }
+
+  &_modal {
+    @apply bg-white w-3/6 h-2/5 translate-y-11 transition-transform rounded-lg;
+
+    &.active {
+      @apply translate-y-0;
+    }
+  }
+}

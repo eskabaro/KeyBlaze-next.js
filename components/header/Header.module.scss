@@ -1,0 +1,20 @@
+@import "../../styles/mixins.scss";
+@import "../../styles/functions.scss";
+
+.header {
+  @apply grid grid-cols-3 px-5 py-3 items-center;
+
+  &_logo {
+    @apply grid place-items-center;
+    grid-area: 1 / 2;
+
+    h1 {
+      @include font(rem(20), 4vw, rem(25), 700);
+    }
+  }
+
+  &_settings {
+    @apply grid justify-end items-center size-fit ml-auto;
+    grid-area: 1 / 3;
+  }
+}

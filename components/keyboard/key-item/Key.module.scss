@@ -1,0 +1,12 @@
+.key {
+  @apply p-3 min-w-12 border rounded-md bg-transparent;
+  margin: 2px;
+
+  &.Space {
+    width: 40%;
+  }
+
+  &.is-press {
+    @apply duration-05 bg-zinc-400;
+  }
+}
