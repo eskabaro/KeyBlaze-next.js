@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/",
+  basePath: "/KeyBlaze-next.js",
   distDir: "dist",
   output: "export",
   images: {
