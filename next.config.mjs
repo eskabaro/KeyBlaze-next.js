@@ -1,7 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "/github-pages",
+  distDir: "dist",
   output: "export",
+  images: {
+    unoptimized: true,
+  },
 };
 
 export default nextConfig;
